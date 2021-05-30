@@ -1,0 +1,161 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: black;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    text-align: center;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+    font-family: 'Reggae One', cursive;
+    font-weight: 300;
+}
+#name {
+    font-size: 40px;
+    font-family: 'Reggae One', cursive;
+    font-weight: 300;
+  
+}
+h1{
+    text-align: center;
+}
+h2 {
+    font-size: 35px;
+    font-family: 'Reggae One', cursive;
+    font-weight: 300;
+      color:#064215;
+}
+.profile{
+    margin-top: 50px;
+    width:300px;
+    text-align: center;
+}
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.contact_1{
+    text-align: center;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    width:100%;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+    color:#156b6e;
+}
+a
+{
+    font-family: 'Reggae One', cursive;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+       
+}
+
+input
+{
+    background: grey;
+}
+.collapse navbar-collapse a{
+    font-size:50px;
+}
+
+.youtube{
+    font-size: 30px;
+}
+.youtube_img{
+    width:1500px;
+    height:600px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+#book{
+    text-align: center;
+}
+
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+      width: 450px;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+#myCarousel
+{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#myCarousel img
+{
+    height: 200px;
+    margin-top: 35px;
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+#gallery{
+    margin-top: 50px;
+}
+#gallery h5{
+    font-family: 'Reggae One', cursive;
+    color: coral;
+    font-size: 20px;
+}
